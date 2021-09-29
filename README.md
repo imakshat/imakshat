@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imakshat
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently working on python.
 - 💞
 - 📫 How to reach me akshatthakkar560@gmail.com
 
